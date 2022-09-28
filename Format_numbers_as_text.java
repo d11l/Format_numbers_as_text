@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class Format_numbers_as_text {
 
 /**
