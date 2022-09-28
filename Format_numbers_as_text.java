@@ -10,7 +10,7 @@ public class Format_numbers_as_text {
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in); 
-        numToEng_0_999(in.nextInt());
+        numToEng_0_999(in.nextInt());// Ex: 120 --> one hundred twenty
         
         
     }
