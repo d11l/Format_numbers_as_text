@@ -11,7 +11,7 @@ public class Format_numbers_as_text {
         Scanner in = new Scanner(System.in); 
         numToEng_0_999(in.nextInt());// Ex: 120 --> one hundred twenty
         
-        
+     
     }
     
     public static void numToEng_0_999(int n) {// 0-999 
